@@ -1,0 +1,148 @@
+{
+  "exercises": [
+    {
+      "id": "breathing_001",
+      "title": "4-7-8 Breathing",
+      "description": "A simple breathing technique to reduce anxiety and promote relaxation. Perfect for beginners.",
+      "duration": 5,
+      "category": "Breathing",
+      "imageUrl": "/placeholder.svg?height=200&width=300",
+      "steps": [
+        "Find a comfortable seated position with your back straight",
+        "Place the tip of your tongue against the ridge behind your upper teeth",
+        "Exhale completely through your mouth, making a whoosh sound",
+        "Close your mouth and inhale quietly through your nose for 4 counts",
+        "Hold your breath for 7 counts",
+        "Exhale through your mouth for 8 counts, making a whoosh sound",
+        "Repeat this cycle 3-4 times"
+      ]
+    },
+    {
+      "id": "breathing_002",
+      "title": "Box Breathing",
+      "description": "A structured breathing pattern used by Navy SEALs to maintain calm under pressure.",
+      "duration": 8,
+      "category": "Breathing",
+      "imageUrl": "/placeholder.svg?height=200&width=300",
+      "steps": [
+        "Sit comfortably with your feet flat on the floor",
+        "Exhale all air from your lungs",
+        "Inhale through your nose for 4 counts",
+        "Hold your breath for 4 counts",
+        "Exhale through your mouth for 4 counts",
+        "Hold empty for 4 counts",
+        "Repeat for 4-8 cycles",
+        "Return to normal breathing"
+      ]
+    },
+    {
+      "id": "mindfulness_001",
+      "title": "Body Scan Meditation",
+      "description": "A mindfulness practice that helps you connect with your body and release tension.",
+      "duration": 15,
+      "category": "Mindfulness",
+      "imageUrl": "/placeholder.svg?height=200&width=300",
+      "steps": [
+        "Lie down comfortably on your back",
+        "Close your eyes and take three deep breaths",
+        "Start by focusing on your toes, notice any sensations",
+        "Slowly move your attention up through your feet and ankles",
+        "Continue scanning up through your legs, pelvis, and torso",
+        "Notice your arms, hands, and fingers",
+        "Move to your neck, face, and head",
+        "Take a moment to feel your whole body",
+        "Wiggle your fingers and toes before opening your eyes"
+      ]
+    },
+    {
+      "id": "mindfulness_002",
+      "title": "Mindful Walking",
+      "description": "Practice mindfulness while walking, perfect for outdoor meditation or when you need to move.",
+      "duration": 10,
+      "category": "Mindfulness",
+      "imageUrl": "/placeholder.svg?height=200&width=300",
+      "steps": [
+        "Find a quiet path or space where you can walk slowly",
+        "Begin walking at a slower pace than usual",
+        "Focus on the sensation of your feet touching the ground",
+        "Notice the movement of your legs and the swing of your arms",
+        "Pay attention to your surroundings without judgment",
+        "If your mind wanders, gently return focus to walking",
+        "Feel the rhythm of your steps",
+        "End by standing still for a moment before continuing your day"
+      ]
+    },
+    {
+      "id": "stress_001",
+      "title": "Progressive Muscle Relaxation",
+      "description": "Systematically tense and relax muscle groups to release physical stress and tension.",
+      "duration": 12,
+      "category": "Stress Relief",
+      "imageUrl": "/placeholder.svg?height=200&width=300",
+      "steps": [
+        "Lie down or sit comfortably in a quiet space",
+        "Start with your toes - tense them for 5 seconds, then relax",
+        "Move to your calves - tense and release",
+        "Continue with your thighs, glutes, and abdomen",
+        "Tense and relax your hands, arms, and shoulders",
+        "Scrunch your facial muscles, then release",
+        "Take a moment to notice the contrast between tension and relaxation",
+        "Breathe deeply and enjoy the feeling of complete relaxation"
+      ]
+    },
+    {
+      "id": "stress_002",
+      "title": "5-4-3-2-1 Grounding",
+      "description": "A grounding technique that uses your senses to bring you back to the present moment.",
+      "duration": 7,
+      "category": "Stress Relief",
+      "imageUrl": "/placeholder.svg?height=200&width=300",
+      "steps": [
+        "Sit comfortably and take a deep breath",
+        "Look around and name 5 things you can see",
+        "Notice 4 things you can touch or feel",
+        "Listen for 3 things you can hear",
+        "Identify 2 things you can smell",
+        "Notice 1 thing you can taste",
+        "Take three more deep breaths",
+        "Notice how you feel more present and grounded"
+      ]
+    },
+    {
+      "id": "sleep_001",
+      "title": "Sleep Preparation",
+      "description": "A calming routine to prepare your mind and body for restful sleep.",
+      "duration": 20,
+      "category": "Sleep",
+      "imageUrl": "/placeholder.svg?height=200&width=300",
+      "steps": [
+        "Lie down in your bed in a comfortable position",
+        "Close your eyes and take five deep, slow breaths",
+        "Starting from your toes, consciously relax each part of your body",
+        "Imagine a warm, golden light moving up from your feet",
+        "Let this light dissolve any tension as it moves through your body",
+        "Focus on your breathing, letting it become slower and deeper",
+        "If thoughts arise, acknowledge them and let them drift away",
+        "Continue breathing slowly until you drift off to sleep"
+      ]
+    },
+    {
+      "id": "sleep_002",
+      "title": "Counting Meditation",
+      "description": "A simple counting technique to quiet the mind and promote sleep.",
+      "duration": 15,
+      "category": "Sleep",
+      "imageUrl": "/placeholder.svg?height=200&width=300",
+      "steps": [
+        "Get comfortable in your bed and close your eyes",
+        "Begin counting backwards from 100",
+        "With each number, take a slow, deep breath",
+        "Visualize each number in your mind",
+        "If you lose count, simply start over from 100",
+        "Don't worry about reaching zero",
+        "Let the counting become automatic and soothing",
+        "Allow yourself to drift off whenever you feel ready"
+      ]
+    }
+  ]
+}
